@@ -27,7 +27,7 @@ Currently, I'm expanding my expertise in **Artificial Intelligence**, **Spring B
 * **Frontend:** HTML, CSS, React.js
 * **Backend:** Spring Boot
 * **Database:** MySQL
-* **AI Tools:**Claude, OpenAI Codex, GitHub Copilot
+* **AI Tools:** OpenAI Codex, GitHub Copilot, Claude   
 * **Tools & Platforms:** Git, GitHub, Docker, VS Code, IntelliJ IDEA
 * **Concepts:** DSA, System Design, Object-Oriented Programming, REST APIs, AI Integration
 
